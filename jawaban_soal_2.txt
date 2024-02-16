@@ -1,1 +1,3 @@
-Git rebase adalah  perintah  Git yang digunakan untuk mengubah riwayat commit pada sebuah branch. Rebase memungkinkan Anda  menggabungkan perubahan dari satu cabang ke cabang lainnya sambil mempertahankan riwayat penerapan yang bersih dan linier. Ini berbeda dengan perintah git merge, yang menggabungkan perubahan dari satu cabang ke cabang lainnya dan membuat commit merge baru.
+Git rebase adalah  perintah  Git yang digunakan untuk mengubah riwayat commit pada sebuah branch.
+Rebase memungkinkan Anda  menggabungkan perubahan dari satu cabang ke cabang lainnya sambil mempertahankan riwayat penerapan yang bersih dan linier. 
+Ini berbeda dengan perintah git merge, yang menggabungkan perubahan dari satu cabang ke cabang lainnya dan membuat commit merge baru.
